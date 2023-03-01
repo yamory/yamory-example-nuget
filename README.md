@@ -7,7 +7,7 @@
 brew install --cask dotnet-sdk
 ```
 
-yamoryでスキャンするまえに以下を実行しておく
+NuGet パッケージの復元
 
 ```
 dotnet restore
