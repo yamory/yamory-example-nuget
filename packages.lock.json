@@ -75,6 +75,12 @@
           "PeterO.Numbers": "1.1.1"
         }
       },
+      "System.Linq.Dynamic.Core": {
+        "type": "Direct",
+        "requested": "[1.2.25, )",
+        "resolved": "1.2.25",
+        "contentHash": "qpkqDHLNxGR1qBNrdnnPfJFfsKSWy3nUELC/BWxP8vwSaf8vVwecZzXOV4B52yOGit94g0pLWJEe30a4L1tE7g=="
+      },
       "Microsoft.AspNetCore.Authentication.Abstractions": {
         "type": "Transitive",
         "resolved": "2.2.0",
